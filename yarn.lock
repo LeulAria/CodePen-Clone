@@ -1792,6 +1792,21 @@
   dependencies:
     "@types/react" "^16"
 
+"@types/react-splitter-layout@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@types/react-splitter-layout/-/react-splitter-layout-3.0.1.tgz#83fd7683b07f804fb1a7b72651f5eb99cd5258a9"
+  integrity sha512-NsKq32LdG11G/Uj+xo2QmC9S8YSe8JRtxkBhsBE7ODFs0zcnzNEqFAQirP0H7rPe2WFGiu+d/44xbHsew7QAJw==
+  dependencies:
+    "@types/react" "*"
+
+"@types/react@*":
+  version "17.0.0"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.0.tgz#5af3eb7fad2807092f0046a1302b7823e27919b8"
+  integrity sha512-aj/L7RIMsRlWML3YB6KZiXB3fV2t41+5RBGYF8z+tAKU43Px8C3cYUZsDvf1/+Bm4FK21QWBrDutu8ZJ/70qOw==
+  dependencies:
+    "@types/prop-types" "*"
+    csstype "^3.0.2"
+
 "@types/react@^16", "@types/react@^16.9.53":
   version "16.14.2"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.14.2.tgz#85dcc0947d0645349923c04ccef6018a1ab7538c"
