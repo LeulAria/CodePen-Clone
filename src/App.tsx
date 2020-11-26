@@ -7,6 +7,9 @@ import 'react-splitter-layout/lib/index.css';
 const App: React.FC = () => {
   return (
     <div className="App">
+      <header className="header">
+        codepen_clone (leularia)&nbsp;&nbsp;&nbsp;v.0.0.0
+      </header>
       <SplitterLayout vertical>
 
         <SplitterLayout primaryIndex={1} percentage>
